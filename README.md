@@ -6,7 +6,7 @@ Excellent if
 
 - 💾 You want to back up your code but don't want to include GBs of dependencies
 - 🧑‍🎨 You try out lots of projects but hate how much space they occupy
-
+- ⚡️ You like keeping your disks lean and zippy
 
 <br />
 
